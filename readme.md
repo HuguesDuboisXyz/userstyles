@@ -9,3 +9,4 @@ Quick installs...
 * 📦 [GruvBox - Slack](https://raw.githubusercontent.com/HuguesDuboisXyz/userstyles/master/gruvbox-slack.user.styl)
 * 📦 [GruvBox - Stylus](https://raw.githubusercontent.com/HuguesDuboisXyz/userstyles/master/gruvbox-stylus.user.styl)
 * 📦 [GruvBox - YouTube](https://raw.githubusercontent.com/HuguesDuboisXyz/userstyles/master/gruvbox-youtube.user.styl)
+* 📦 [GruvBox - Quicklisp](https://raw.githubusercontent.com/HuguesDuboisXyz/userstyles/master/gruvbox-quicklisp.user.styl)
