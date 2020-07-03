@@ -1,0 +1,30 @@
+/* ==UserStyle==
+@name           GruvBox - auicklisp
+@namespace      github.com/HuguesDuboisXyz/userstyles
+@version        1.0.1
+@description    Quicklisp... Gruvbox style.
+@preprocessor   stylus
+@author         HuguesDuboisXyz
+@license        WTFPL
+@updateURL      https://raw.githubusercontent.com/HuguesDuboisXyz/userstyles/master/gruvbox-quicklisp.user.styl
+@homepageURL    https://github.com/HuguesDuboisXyz/userstyles
+@var color text           "Text"                  #BDAE93
+@var color text-dark      "Text Dark"             #A89984
+@var color text-light     "Text Light"            #FBF1C7
+@var color back           "Background"            #282828
+@var color back-dark      "Background Dark"       #1D2021
+@var color back-light     "Background Bright"     #3C3836
+@var color red            "Red"                   #FB4934
+@var color green          "Green"                 #B8BB26
+@var color blue           "Blue"                  #83a598
+@var color yellow         "Yellow"                #d79921
+@var color neutral-blue   "Neutral Blue"          #458588
+@var color faded-blue     "Faded Blue"            #076678
+==/UserStyle== */
+@-moz-document regexp("https://quicklisp.org/.*")
+  body
+    background: back
+    color: text
+
+  a, .btn-link, .reponav-item, .link-gray:hover
+    color: text-light !important
